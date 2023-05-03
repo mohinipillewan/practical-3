@@ -1,0 +1,34 @@
+<!doctype html>
+<html>
+<head>
+      <title> RESUME </title>
+</head>
+<body>
+      <p> <h1> ORDERED LIST </h1></p>
+        <p>parts of computers </p>
+  <ol>
+       <li> mouse </li>
+        <li> keyboard </li>
+        <li> monitor</li>
+         <li> cpu </li>
+          <li> printer </li>
+</ol>
+<p> <h1> UNORDERED LIST </h1> </p>
+<ul>
+<li> mouse </li>
+        <li> keyboard </li>
+        <li> monitor</li>
+         <li> cpu </li>
+          <li> printer </li>
+</ul>
+
+<p> <h1> DESCRIPTION LIST </h1> </p>
+          <dl>
+             <dt> HTML </dt>
+              <dd> HYPERTEXT MARKUP LANGUAGE </dd>
+               <dt> ETC </dt>
+                <dd> ELECTRONICS AND TELECOMMUNICATION <dd>
+            </dl>
+
+</body>
+</html>
